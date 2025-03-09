@@ -24,5 +24,5 @@ To get started with this project, follow the steps below:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/sadesh123/nba-player-data-api.git
+   git clone https://github.com/sadesh123/OpenTelemetryTracing.git
 
